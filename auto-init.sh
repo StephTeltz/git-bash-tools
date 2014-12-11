@@ -5,7 +5,10 @@
 #	Date: December 11, 2014
 #	Auth: Stephanie M Teltz
 #
-#	Sources: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+#	References: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+#
+#	Usage: In terminal, navigate to pre-cloned repository, and run $ bash auto-init.sh
+#
 ####################################################################
 
 #!/bin/bash
